@@ -11,7 +11,7 @@ def load_config(config_path="config.yaml"):
     with open(config_path, "r") as f:
         return yaml.safe_load(f)
 
-# Create embedding model using the new HuggingFaceEmbeddings
+
 embedding_model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
 def load_real_data_distributions():
@@ -123,11 +123,7 @@ def run_simulation(module_name, n_patients, vector_store, output_dir, llm_backen
     else:
         distribution = [1.0] + [0.0] * (len(severity_levels) - 1)
     
-    # Generate patient demographics
-    # ages = np.random.normal(14.86, 1.385, n_patients) # Original line commented out
-    # ages = np.clip(ages, 13, 18) # Original line commented out
-    # ages = np.round(ages, 0) # Original line commented out
-    # sexes = np.random.choice(['male', 'female'], p=[0.314, 0.686], size=n_patients) # Original line commented out
+
 
     # Use empirical sampling for age and sex
     real_data_dist = load_real_data_distributions()

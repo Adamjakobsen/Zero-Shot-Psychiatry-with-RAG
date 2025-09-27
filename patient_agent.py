@@ -1,15 +1,12 @@
-# patient_agent.py
-
 import json
 import re
 import sys
 import os
 import random
 
-# Add parent directory to path to import clients
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from vllm_client import VLLMClient
+#from vllm_client import VLLMClient
 from openai_client import OpenAIVLLMClient
 from ollama_client import OllamaClient
 
