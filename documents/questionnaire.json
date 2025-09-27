@@ -1,0 +1,272 @@
+{
+    "SEPARATION ANXIETY": {
+      "module": "SEPARATION ANXIETY",
+      "items": [
+        {
+          "key": "W1_separation_anxiety_it1",
+          "label": "felt moments of sudden terror, fear, or fright when separated"
+        },
+        {
+          "key": "W1_separation_anxiety_it2",
+          "label": "felt anxious, worried, or nervous about being separated"
+        },
+        {
+          "key": "W1_separation_anxiety_it3",
+          "label": "have had thoughts of bad things happening to people important to me or bad things happening to me when separated from them (e.g., getting lost, accidents)"
+        },
+        {
+          "key": "W1_separation_anxiety_it4",
+          "label": "felt a racing heart, sweaty, trouble breathing, faint, or shaky when separated"
+        },
+        {
+          "key": "W1_separation_anxiety_it5",
+          "label": "felt tense muscles, felt on edge or restless, or had trouble relaxing or trouble sleeping when separated"
+        },
+        {
+          "key": "W1_separation_anxiety_it6",
+          "label": "avoided going places where I would be separated"
+        },
+        {
+          "key": "W1_separation_anxiety_it7",
+          "label": "when separated, left places early to go home"
+        },
+        {
+          "key": "W1_separation_anxiety_it8",
+          "label": "spent a lot of time preparing for how to deal with separation"
+        },
+        {
+          "key": "W1_separation_anxiety_it9",
+          "label": "distracted myself to avoid thinking about being separated"
+        },
+        {
+          "key": "W1_separation_anxiety_it10",
+          "label": "needed help to cope with separation (e.g., alcohol or medications, superstitious objects)"
+        }
+      ]
+    },
+    "SPECIFIC PHOBIA": {
+      "module": "SPECIFIC PHOBIA",
+      "items": [
+        {
+          "key": "W1_specific_phobia_it1",
+          "label": "felt moments of sudden terror, fear, or fright in these situations"
+        },
+        {
+          "key": "W1_specific_phobia_it2",
+          "label": "felt anxious, worried, or nervous about these situations"
+        },
+        {
+          "key": "W1_specific_phobia_it3",
+          "label": "had thoughts of being injured, overcome with fear, or other bad things happening in these situations"
+        },
+        {
+          "key": "W1_specific_phobia_it4",
+          "label": "felt a racing heart, sweaty, trouble breathing, faint, or shaky in these situations"
+        },
+        {
+          "key": "W1_specific_phobia_it5",
+          "label": "felt tense muscles, felt on edge or restless, or had trouble relaxing in these situations"
+        },
+        {
+          "key": "W1_specific_phobia_it6",
+          "label": "avoided, or did not approach or enter, these situations"
+        },
+        {
+          "key": "W1_specific_phobia_it7",
+          "label": "moved away from these situations or left them early"
+        },
+        {
+          "key": "W1_specific_phobia_it8",
+          "label": "spent a lot of time preparing for, or procrastinating about (i.e., putting off), these situations"
+        },
+        {
+          "key": "W1_specific_phobia_it9",
+          "label": "distracted myself to avoid thinking about these situations"
+        },
+        {
+          "key": "W1_specific_phobia_it10",
+          "label": "needed help to cope with these situations (e.g., alcohol or medications, superstitious objects, other people)"
+        }
+      ]
+    },
+    "SOCIAL ANXIETY": {
+      "module": "SOCIAL ANXIETY",
+      "items": [
+        {
+          "key": "W1_social_anxiety_it1",
+          "label": "felt moments of sudden terror, fear, or fright in social situations"
+        },
+        {
+          "key": "W1_social_anxiety_it2",
+          "label": "felt anxious, worried, or nervous about social situations"
+        },
+        {
+          "key": "W1_social_anxiety_it3",
+          "label": "had thoughts of being rejected, humiliated, embarrassed, ridiculed, or offending others"
+        },
+        {
+          "key": "W1_social_anxiety_it4",
+          "label": "felt a racing heart, sweaty, trouble breathing, faint, or shaky in social situations"
+        },
+        {
+          "key": "W1_social_anxiety_it5",
+          "label": "felt tense muscles, felt on edge or restless, or had trouble relaxing in social situations"
+        },
+        {
+          "key": "W1_social_anxiety_it6",
+          "label": "avoided, or did not approach or enter, social situations"
+        },
+        {
+          "key": "W1_social_anxiety_it7",
+          "label": "left social situations early or participated only minimally (e.g., said little, avoided eye contact)"
+        },
+        {
+          "key": "W1_social_anxiety_it8",
+          "label": "spent a lot of time preparing what to say or how to act in social situations"
+        },
+        {
+          "key": "W1_social_anxiety_it9",
+          "label": "distracted myself to avoid thinking about social situations"
+        },
+        {
+          "key": "W1_social_anxiety_it10",
+          "label": "needed help to cope with social situations (e.g., alcohol or medications, superstitious objects)"
+        }
+      ]
+    },
+    "PANIC": {
+      "module": "PANIC",
+      "items": [
+        {
+          "key": "W1_panic_it1",
+          "label": "felt moments of sudden terror, fear or fright, sometimes out of the blue (i.e., a panic attack)"
+        },
+        {
+          "key": "W1_panic_it2",
+          "label": "felt anxious, worried, or nervous about having more panic attacks"
+        },
+        {
+          "key": "W1_panic_it3",
+          "label": "had thoughts of losing control, dying, going crazy, or other bad things happening because of a panic attacks"
+        },
+        {
+          "key": "W1_panic_it4",
+          "label": "felt a racing heart, sweaty, trouble breathing, faint, or shaky"
+        },
+        {
+          "key": "W1_panic_it5",
+          "label": "felt tense muscles, felt on edge or restless, or had trouble relaxing or trouble sleeping"
+        },
+        {
+          "key": "W1_panic_it6",
+          "label": "avoided, or did not approach or enter, situations in which panic attacks might occur"
+        },
+        {
+          "key": "W1_panic_it7",
+          "label": "left situations early, or participated only minimally, because of panic attacks"
+        },
+        {
+          "key": "W1_panic_it8",
+          "label": "spent a lot of time preparing for, or procrastinating about (putting off), situations in which panic attacks might occur"
+        },
+        {
+          "key": "W1_panic_it9",
+          "label": "distracted myself to avoid thinking about panic attacks"
+        },
+        {
+          "key": "W1_panic_it10",
+          "label": "needed help to cope with panic attacks (e.g., alcohol or medication, superstitious objects, other people)"
+        }
+      ]
+    },
+    "AGORAPHOBIA": {
+      "module": "AGORAPHOBIA",
+      "items": [
+        {
+          "key": "W1_agoraphobia_it1",
+          "label": "felt moments of sudden terror, fear, or fright in these situations"
+        },
+        {
+          "key": "W1_agoraphobia_it2",
+          "label": "felt anxious, worried, or nervous about these situations"
+        },
+        {
+          "key": "W1_agoraphobia_it3",
+          "label": "had thoughts about panic attacks, uncomfortable physical sensations, getting lost, or being overcome with fear in these situations"
+        },
+        {
+          "key": "W1_agoraphobia_it4",
+          "label": "felt a racing heart, sweaty, trouble breathing, faint, or shaky in these situations"
+        },
+        {
+          "key": "W1_agoraphobia_it5",
+          "label": "felt tense muscles, felt on edge or restless, or had trouble relaxing in these situations"
+        },
+        {
+          "key": "W1_agoraphobia_it6",
+          "label": "avoided, or did not approach or enter, these situations"
+        },
+        {
+          "key": "W1_agoraphobia_it7",
+          "label": "moved away from these situations, left them early, or remained close to the exits"
+        },
+        {
+          "key": "W1_agoraphobia_it8",
+          "label": "spent a lot of time preparing for, or procrastinating about (putting off), these situations"
+        },
+        {
+          "key": "W1_agoraphobia_it9",
+          "label": "distracted myself to avoid thinking about these situations"
+        },
+        {
+          "key": "W1_agoraphobia_it10",
+          "label": "needed help to cope with these situations (e.g., alcohol or medication, superstitious objects, other people)"
+        }
+      ]
+    },
+    "GENERALIZED ANXIETY": {
+      "module": "GENERALIZED ANXIETY",
+      "items": [
+        {
+          "key": "W1_generalized_anxiety_it1",
+          "label": "felt moments of sudden terror, fear, or fright"
+        },
+        {
+          "key": "W1_generalized_anxiety_it2",
+          "label": "felt anxious, worried, or nervous"
+        },
+        {
+          "key": "W1_generalized_anxiety_it3",
+          "label": "had thoughts of bad things happening, such as family tragedy, ill health, loss of a job, or accidents"
+        },
+        {
+          "key": "W1_generalized_anxiety_it4",
+          "label": "felt a racing heart, sweaty, trouble breathing, faint, or shaky"
+        },
+        {
+          "key": "W1_generalized_anxiety_it5",
+          "label": "felt tense muscles, felt on edge or restless, or had trouble relaxing or trouble sleeping"
+        },
+        {
+          "key": "W1_generalized_anxiety_it6",
+          "label": "avoided, or did not approach or enter, situations about which I worry"
+        },
+        {
+          "key": "W1_generalized_anxiety_it7",
+          "label": "left situations early or participated only minimally due to worries"
+        },
+        {
+          "key": "W1_generalized_anxiety_it8",
+          "label": "spent lots of time making decisions, putting off making decisions, or preparing for situations, due to worries"
+        },
+        {
+          "key": "W1_generalized_anxiety_it9",
+          "label": "sought reassurance from others due to worries"
+        },
+        {
+          "key": "W1_generalized_anxiety_it10",
+          "label": "needed help to cope with anxiety (e.g., alcohol or medication, superstitious objects, or other people)"
+        }
+      ]
+    }
+  }
