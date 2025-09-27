@@ -39,48 +39,47 @@ All the datasets can be found under `datasets/`.
 
 The experimental pipeline is divided into several stages. Run the scripts in the following order.
 
-### Step 1: Generate LLM-Based Synthetic Data
+### Generate LLM-Based Synthetic Data
 This script uses the RAG framework to generate synthetic data for the LLM variants (`dsm5`, `icd10`, `dsm5+icd10`, `none`).
 
-```bash
+```
 python main.py
 ```
 
-### Step 2: Generate Baseline Synthetic Data
+### Generate Baseline Synthetic Data
 This script generates data for the baseline models (`ctgan`, `tvae`, `random`).
 
-```bash
+```
 python generate_baselines.py
 ```
 
 After this step, the `datasets/synthetic/` directory will be populated with all required data files.
 
-### Step 3: Run the Fidelity Evaluation
+### Run the Fidelity Evaluation
 This script calculates the fidelity metrics (`JSD`, `MAE_V`, `ED²`) for all generated datasets and produces bootstrapped confidence intervals.
 
-```bash
+```
 python evaluate_fidelity.py
 ```
 
 This will create `fidelity_summary.csv` and `fidelity_raw_bootstrap.csv` in the `results/fidelity/` directory.
 
-### Step 4: Run the Privacy Evaluation
-This script calculates the privacy metrics (`ExactOverlap`, `dNN`, `Share`, `kmap`) for all generated datasets.
+### Run the Privacy Evaluation
+This script calculates the privacy metrics for all generated datasets.
 
-```bash
+```
 python evaluate_privacy.py
 ```
 
 This will create `privacy_summary.csv` and the final LaTeX table `privacy_results.tex` in the `results/privacy/` directory.
 
-### Step 5: Generate Final LaTeX Reports (Fidelity)
+### Generate Final LaTeX Reports (Fidelity)
 These scripts use the outputs from the fidelity evaluation to generate the final, formatted LaTeX tables for the paper.
 
-```bash
-# Generates the main fidelity results table
+```
 python fidelity_report.py
-
-# Generates the ablation study (delta) table
+```
+```
 python delta_CI.py
 ```
 
